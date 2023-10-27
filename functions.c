@@ -13,21 +13,3 @@ int Percent(int size_) //вспомогательная функция для з
    return perc;
 }
 
-/*
-* void ReverseArray(int arr[], int size) // функиця разворачивающая массив
-{
-   int start = 0;
-   int end = size - 1;
-
-   while (start < end) {
-      // Обмен значениями элементов массива
-      int temp = arr[start];
-      arr[start] = arr[end];
-      arr[end] = temp;
-
-      // Переход к следующим элементам
-      start++;
-      end--;
-   }
-}
-*/
