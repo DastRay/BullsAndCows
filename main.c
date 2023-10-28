@@ -1,11 +1,7 @@
-#include <stdio.h>
-#include <time.h>
+п»ї#include <stdio.h>
 #include <locale.h>
 
 #include "functions.h"
-
-#define SIZE 4 // определение длины числа для игры
-
 
 int main() 
 {  

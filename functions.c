@@ -56,7 +56,6 @@ void BullsAndCows()
       {
          printf("Пожалуйста, введите %d значное число\n", SIZE);
          printf("--------------------------\n");
-         count_attemts--;
          continue;
       }
       printf("--------------------------\n");
