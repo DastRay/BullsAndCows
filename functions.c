@@ -1,7 +1,8 @@
 ﻿#include "functions.h"
 
-#include<stdio.h>
+#include <stdio.h>
 #include <time.h>
+#include <stdlib.h>
 
 #define SIZE 4 // определение длины числа для игры
 
